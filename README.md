@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YukitoMasaki
 - 👀 I’m interested in Making Video Games
-- 🌱 I’m currently learning Basics of C#
+- 🌱 I’m currently learning Basics of Python (and C#)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Discord - Yukito_Masaki#4382)
 
